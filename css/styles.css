@@ -63,7 +63,7 @@ a:hover {text-decoration:underline;}
 	height:auto;
 	left:40px;
 	position:absolute;
-	width:50%;
+	width:100%;
 	z-index:1000;
 	color: #fff;
 }
