@@ -56,6 +56,10 @@ a:hover {text-decoration:underline;}
 	-webkit-font-smoothing:antialiased;
 }
 
+#descr{
+	text-align: justify;
+}
+
 #logo {
 	font-family: 'Coustard', serif;
 	font-size: 25px;
